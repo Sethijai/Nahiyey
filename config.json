@@ -9,7 +9,7 @@
         },
         "run": "main.py"
     },
-    "bot1": {
+    "bot2": {
         "source": "https://github.com/Sethijai/4substore",
         "branch": "main",
         "env": {
