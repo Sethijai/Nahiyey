@@ -8,15 +8,5 @@
             "PROTECT_CONTENT": "False"
         },
         "run": "main.py"
-    },
-    "bot2": {
-        "source": "https://github.com/Sethijai/4substore",
-        "branch": "main",
-        "env": {
-            "TG_BOT_TOKEN": "7566937132:AAErdv9tCjFGZh-nfy8ZY4q_KHuuomS38yc",
-            "CHANNEL_ID": "-1002428642636",
-            "PROTECT_CONTENT": "False"
-        },
-        "run": "main.py"
     }
 }
