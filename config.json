@@ -1,9 +1,9 @@
 {   
     "bot1": {
-        "source": "https://github.com/Sethijai/4substore",
+        "source": "https://github.com/Sethijai/4substore.git",
         "branch": "main",
         "env": {
-            "TG_BOT_TOKEN": "7559230173:AAFjdtYEybB5hV05slU_1-5GJ-9uqP_Il_U",
+            "TG_BOT_TOKEN": "7821208337:AAG12bK7XkDuSFIgXP-2FypgjK9Y7Vq2ahw",
             "CHANNEL_ID": "-1002428642636",
             "PROTECT_CONTENT": "False"
         },
