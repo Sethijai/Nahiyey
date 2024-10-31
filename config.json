@@ -7,6 +7,6 @@
             "CHANNEL_ID": "-1002428642636",
             "PROTECT_CONTENT": "False"
         },
-        "run": "main.py"
+        "run": "bot.py"
     }
 }
